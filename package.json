@@ -1,0 +1,19 @@
+{
+  "name": "rad-test-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.1",
+    "ts-node": "^10.9.1"
+  }
+}
