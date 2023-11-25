@@ -2,7 +2,7 @@
   "name": "rad-test-2",
   "version": "1.0.0",
   "description": "",
-  "main": "app.ts",
+  "main": "server/app.ts",
   "scripts": {
     "start": "tsc && node dist/app.js"
   },
