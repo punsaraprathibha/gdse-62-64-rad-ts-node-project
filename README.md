@@ -10,4 +10,4 @@
 10. However, we have a simplified way to do this as well
 11. Then please use ` npm install ts-node -D` to install ts-node.
 12. Then replace start script to `"start": "ts-node server/app.ts"`
-13. So, you'll not need the dist directory any more
+13. So, you'll not need the dist directory anymore
